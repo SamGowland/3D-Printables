@@ -6,7 +6,7 @@ Collection of 3D printable objects I have designed and respective STL files.
 
 ## Designs
 
-Gowla Macro Board:
+Gowla Macro Board Case:
 
   * <a href='Gowla Macro Board/bottom case M2 holes.stl'>Bottom Case</a><br>
   * <a href='Gowla Macro Board/top_plate.stl'>Top Plate</a><br>
