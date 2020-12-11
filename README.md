@@ -13,5 +13,4 @@ Gowla Macro Board Case:
 
 NA3FDM Bracket:
 
-  * <a href='Gowla Macro Board/bottom case M2 holes.stl'>Bottom Case Component</a><br>
-  * <a href='Gowla Macro Board/top_plate.stl'>Top plate component</a><br>
+  * <a href='NA3FDM Desk Bracket/NA3FDM Table bracket.stl'>NA3FDM Table or Desk Bracket for XLR</a><br>
